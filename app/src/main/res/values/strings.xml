@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ScoreKeeperTwo</string>
+
+
+    <string name="team_a">These Guys</string>
+    <string name="team_b">Those Guys</string>
+
+    <string name="three_points">+3 Points</string>
+    <string name="two_points">+2 Points</string>
+    <string name="free_throw">+1 Point\nFree Throw</string>
+
+    <string name="initial_score">0</string>
+
+    <string name="reset_button">RESET</string>
+    <string name="title_activity_settings">Settings</string>
+
+</resources>
